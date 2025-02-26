@@ -63,3 +63,4 @@ Developed in:
 [Next.js 15.0.3](https://nextjs.org/blog/next-15)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+"# Event-Ease" 
